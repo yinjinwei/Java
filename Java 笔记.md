@@ -4,7 +4,7 @@
 
 #### 安装JDK
 
-![image-20220310175716143](Java 笔记.assets/image-20220310175716143.png)
+![image-20220310180432369](images/Java 笔记/image-20220310180432369.png)
 
 
 
